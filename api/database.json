@@ -1,0 +1,74 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "type": "Starch",
+      "ethnicity": "Italian",
+      "barcode": "5052910124449",
+      "side_dishes": [
+        "brownies",
+        "soda"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rotisserie Chicken",
+      "type": "Protien",
+      "ethnicity": "Mexican",
+      "barcode": "0011213015989",
+      "side_dishes": [
+        "gravy",
+        "broccoli"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ice Cream",
+      "type": "Dairy",
+      "ethnicity": "American",
+      "barcode": "0076840600038",
+      "side_dishes": [
+        "water",
+        "chocolate syrup"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sirloin Steak",
+      "type": "Protien",
+      "ethnicity": "American",
+      "barcode": "20608231",
+      "side_dishes": [
+        "seasoning",
+        "asparagus",
+        "baked potato"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vegetable Soup",
+      "type": "Soup",
+      "ethnicity": "Italian",
+      "barcode": "00633109",
+      "side_dishes": [
+        "crackers",
+        "cheese"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Doritos",
+      "type": "Junk",
+      "ethnicity": "American",
+      "barcode": "3168930005339"
+    },
+    {
+      "id": 7,
+      "name": "Starburst",
+      "type": "Candy",
+      "ethnicity": "American",
+      "barcode": "0022000011879"
+    }
+  ]
+}

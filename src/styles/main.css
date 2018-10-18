@@ -1,0 +1,48 @@
+body {
+  background-color : rgb(245, 241, 255);
+}
+
+header {
+  margin-bottom: 20px;
+  padding: 10px;
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+  border: 1px solid maroon;
+  box-shadow: 0 5px 2.5px #bbb;
+  color: black;
+  border-radius: 25px;
+}
+
+#foodlist {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.foods {
+  box-sizing: border-box;
+  margin: 10px;
+  flex-basis: 32.27%;
+  padding: 10px;
+  border: 1px solid maroon;
+  background-color: white;
+  text-align: center;
+  box-shadow: 0 5px 2.5px #bbb;
+  border-radius: 5px;
+}
+
+.foods h1 {
+  font-size: 36px;
+}
+
+.foods div {
+  text-align: left;
+  padding: 5px 0;
+}
+
+.foods div:nth-child(3), .foods div:nth-child(4) {
+  border-bottom: 1px solid black;
+}
